@@ -9,6 +9,8 @@ We have provided a base HTML layout for your table and form.
 
 Use small commits and descriptive commit messages while working on the assignment. One commit solving one issue.
 
+We are expecting you to show both your back-end and front-end skills.
+
 There are a few things you should take into consideration:
 - The website should be able to withstand thousands of visitors at one time.
 - The blue colour used on the H1 should be swapped out for #3C8999.
